@@ -1,0 +1,5 @@
+/Volumes/Smaranda/2_TFP/Bonus/Problema_1/Problema_1/bin/Debug/Problema_1.exe
+/Volumes/Smaranda/2_TFP/Bonus/Problema_1/Problema_1/bin/Debug/Problema_1.pdb
+/Volumes/Smaranda/2_TFP/Bonus/Problema_1/Problema_1/obj/Debug/Problema_1.csprojAssemblyReference.cache
+/Volumes/Smaranda/2_TFP/Bonus/Problema_1/Problema_1/obj/Debug/Problema_1.exe
+/Volumes/Smaranda/2_TFP/Bonus/Problema_1/Problema_1/obj/Debug/Problema_1.pdb
