@@ -11,9 +11,9 @@ namespace Problema_2
                 string vowels = "aeiou";
                 foreach (char vow in vowels)
                 {
-                    foreach (char car in c)
+                    foreach (char caract in c)
                     {
-                        if (car == vow)
+                        if (caract == vow)
                         {
                             return true;
                         }
